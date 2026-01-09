@@ -1,10 +1,10 @@
 name: device_packages_platform_interface
 description: Platform interface of [device_packages] plugin.
 version: 0.1.0
-homepage: https://github.com/alexrintt/device-packages
-repository: https://github.com/alexrintt/device-packages
-issue_tracker: https://github.com/alexrintt/device-packages
-documentation: https://github.com/alexrintt/device-packages
+homepage: https://github.com/tusharonly/device-packages
+repository: https://github.com/tusharonly/device-packages
+issue_tracker: https://github.com/tusharonly/device-packages
+documentation: https://github.com/tusharonly/device-packages
 funding:
   - https://www.buymeacoffee.com/alexrintt
   - https://www.github.com/sponsors/alexrintt
